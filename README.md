@@ -1,6 +1,6 @@
 # Weld-radiography-CNN
 
-#ABSTRACT
+# ABSTRACT
 
 Welding is the most commonly used technique for joining metals. In spite of
 technological advances, defects do occur in welds. So before delivering the weld
