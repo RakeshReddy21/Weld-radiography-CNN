@@ -1,0 +1,7 @@
+max pooling layer 2D  ------->    globalmax pooling layer 3D
+
+Relu layer     ------->     clipped Relu layer 
+
+soft max       ------->   rpns softmax layer
+
+classification layer   ------->   rpn classification layer
